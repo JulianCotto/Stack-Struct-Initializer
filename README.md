@@ -1,2 +1,2 @@
-# Struct-Stack-Storage-
-Stack Storage Class that Initializes &amp; Stores Data Struct by Reference
+# Stack Storage & Data Struct Initializer by Reference
+Stack Storage Class that Initializes Data Struct & Stores Data Struct by Reference
