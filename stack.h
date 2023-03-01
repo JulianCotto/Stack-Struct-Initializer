@@ -29,9 +29,10 @@ public:
     bool pop(Data*, int*);
     bool peek(Data*, int*);
     bool isEmpty();
-    bool intIntegrity(int, string*, int*);
+    
 
 private:
+    bool intIntegrity(int, string*, int*);
     int top;
     int size;
     Data **stack;
